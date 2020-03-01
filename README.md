@@ -1,1 +1,8 @@
 # The-Survivor
+<p>It is a first person shooting game. This is the first game I developped. I tried to learn different types of programming languages to find 
+the perfect passion for me. Nothing interest me more except for developping games and C#. I started with this game. To be honest I'm not satisfied with the result I came up with. Because I was not organized to develope this game. It was really challenging for me to start something new which I knew nothing about. I learned a lot through developping this game. I developped this game with Unity Engine. I learned about unity physics, materials, Animations, connecting C# scripts with game objects, shooting machanics, create enemies, Terrain and a lot more.</p>
+
+<p>I started programming with C lanuage. Switching to C# was a bit challenging. In this game I copied a some of the scripts because I didn't understand them first. I learned lots of new phrases of C# and still learning more. I started developping this game watching a tutorial. But I didn't stick with the tutorial. Copying from tutorial is easy. But when I started to change the game it became really difficult. As a beginer I couldn't solve many problems. So I started learning more about C# and tried even harder to solve my problems.
+When I started to design the terrain, It was really difficult. Because I didn't know how to use every tool. So I kept it basic and added some trees and grass. Even I managed to create river in the terrain. </p>
+<p>I play a lot of shooting game. I tried my best to build a good shooting game. then I realised, it's not that easy for one person.
+So, I did what I could to develope this game. I started this to lean game developping and I got a very good knowledge about that while developping this game.</p>
